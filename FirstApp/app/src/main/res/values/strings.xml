@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="Header">Mój Label</string>
+    <string name="Donate">Donate</string>
+    <string name="Request">Request</string>
+    <string name="works">To działa</string>
+    <string name="alsoWorks">To też działa</string>
+
+</resources>
